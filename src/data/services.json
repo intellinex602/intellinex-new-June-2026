@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "managed-it",
+    "label": "Managed IT Services",
+    "shortDesc": "24/7 proactive monitoring, helpdesk support, network management, and complete IT operations management with guaranteed SLAs.",
+    "image": "/assets/managed-it.webp",
+    "icon": "🖥️",
+    "href": "/services/managed-it"
+  },
+  {
+    "slug": "cloud",
+    "label": "Cloud Infrastructure",
+    "shortDesc": "Seamless migration to AWS, Azure, or GCP. Multi-cloud architecture, cost optimization, and 24/7 cloud operations management.",
+    "image": "/assets/cloud-solutions.webp",
+    "icon": "☁️",
+    "href": "/services/cloud"
+  },
+  {
+    "slug": "ai",
+    "label": "Artificial Intelligence",
+    "shortDesc": "Custom ML models, intelligent automation, predictive analytics, and AI-powered business intelligence that transform your operations.",
+    "image": "/assets/ai-solutions.webp",
+    "icon": "🤖",
+    "href": "/services/ai"
+  },
+  {
+    "slug": "cybersecurity",
+    "label": "Cyber Security",
+    "shortDesc": "End-to-end security with threat detection, SOC monitoring, penetration testing, compliance management, and incident response.",
+    "image": "/assets/cybersecurity.webp",
+    "icon": "🔒",
+    "href": "/services/cybersecurity"
+  },
+  {
+    "slug": "hardware",
+    "label": "Hardware Solutions",
+    "shortDesc": "Enterprise hardware procurement, deployment, and lifecycle management. Dell, HP, Cisco certified partners with best-in-class pricing.",
+    "image": "/assets/hardware.webp",
+    "icon": "🔧",
+    "href": "/services/hardware"
+  },
+  {
+    "slug": "software",
+    "label": "Custom Software Dev",
+    "shortDesc": "Bespoke enterprise applications, web platforms, mobile apps, and API integrations built with modern tech stacks and agile methodology.",
+    "image": "/assets/software-development.webp",
+    "icon": "💻",
+    "href": "/services/software"
+  }
+]

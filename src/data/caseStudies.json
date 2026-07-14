@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "client": "MedCore Health Systems",
+    "industry": "Healthcare",
+    "bgClass": "bg-1",
+    "image": "/assets/healthcare.webp",
+    "title": "Cloud Migration & HIPAA Compliance Overhaul",
+    "desc": "Complete migration of 40+ legacy systems to AWS with zero downtime, achieving full HIPAA compliance and 60% infrastructure cost reduction.",
+    "results": [
+      { "value": "60%", "label": "Cost Reduction" },
+      { "value": "0", "label": "Downtime Hours" },
+      { "value": "100%", "label": "Compliant" }
+    ]
+  },
+  {
+    "id": 2,
+    "client": "Pinnacle Financial Group",
+    "industry": "Finance",
+    "bgClass": "bg-2",
+    "image": "/assets/finance.webp",
+    "title": "AI-Powered Fraud Detection Platform",
+    "desc": "Built and deployed a real-time ML fraud detection system processing 2M+ transactions daily, reducing fraud losses by 87% in 6 months.",
+    "results": [
+      { "value": "87%", "label": "Fraud Reduced" },
+      { "value": "2M+", "label": "Daily TXN" },
+      { "value": "6mo", "label": "Delivery" }
+    ]
+  },
+  {
+    "id": 3,
+    "client": "TitanForge Industries",
+    "industry": "Manufacturing",
+    "bgClass": "bg-3",
+    "image": "/assets/manufacturing.webp",
+    "title": "Smart Factory IoT & Predictive Maintenance",
+    "desc": "Implemented IoT sensors + AI predictive maintenance across 8 facilities, eliminating unplanned downtime and boosting production efficiency by 34%.",
+    "results": [
+      { "value": "34%", "label": "Efficiency Gain" },
+      { "value": "Zero", "label": "Unplanned Down" },
+      { "value": "8", "label": "Facilities" }
+    ]
+  }
+]
