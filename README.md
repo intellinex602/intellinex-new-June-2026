@@ -391,17 +391,6 @@ web: uvicorn main:app --host 0.0.0.0 --port $PORT
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| **Harsh** | Co-Founder · IT Infrastructure & Systems |
-| **Aanidhya Patidar** | Co-Founder · Software Development & AI |
-| **Harshal Jain** | Full Stack Developer · Cybersecurity |
-| **Vishal** | Digital Marketing & Brand Strategy |
-
----
-
 ## Contact
 
 | Channel | Details |
